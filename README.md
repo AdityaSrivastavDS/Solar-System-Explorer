@@ -45,9 +45,9 @@ To explore the Solar System Explorer, you need a modern web browser.
 ### Contributing
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-##License
+### License
 - This project is licensed under the MIT License.
 
-##Acknowledgements
+### Acknowledgements
  - Inspired by the wonders of our solar system.
  - Developed by Aditya Srivastav.
